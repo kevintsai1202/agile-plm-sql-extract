@@ -1,0 +1,15 @@
+{
+  "name": "kevintsai-skills",
+  "owner": {
+    "name": "Kevin Tsai"
+  },
+  "description": "Kevin Tsai 的 Claude Code 技能集（Agile PLM 等）",
+  "plugins": [
+    {
+      "name": "agile-plm-sql-extract",
+      "source": "./plugins/agile-plm-sql-extract",
+      "description": "以 SQL 直讀 Oracle Agile PLM 9.3.x 的設定與資料（類別／欄位／擴充欄位／清單／流程／料號／BOM／BOM Notes／RefDes／AML／附件位置）",
+      "version": "1.0.0"
+    }
+  ]
+}

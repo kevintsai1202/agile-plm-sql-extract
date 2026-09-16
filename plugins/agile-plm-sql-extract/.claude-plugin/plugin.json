@@ -1,0 +1,6 @@
+{
+  "name": "agile-plm-sql-extract",
+  "description": "以 SQL 直讀 Oracle Agile PLM 9.3.x 的設定與資料，不經 Agile SDK。",
+  "version": "1.0.0",
+  "author": { "name": "Kevin Tsai" }
+}
